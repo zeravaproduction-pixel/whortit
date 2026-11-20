@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bold rounded badge silhouette in Warm Cream -->
+    <path
+        android:fillColor="#FFF7F4EC"
+        android:pathData="M54,24C37.43,24 24,37.43 24,54C24,70.57 37.43,84 54,84C70.57,84 84,70.57 84,54C84,37.43 70.57,24 54,24Z" />
+    <!-- Inner soft apricot ring -->
+    <path
+        android:fillColor="#FFF5E3C9"
+        android:pathData="M54,30C40.75,30 30,40.75 30,54C30,67.25 40.75,78 54,78C67.25,78 78,67.25 78,54C78,40.75 67.25,30 54,30Z" />
+    <!-- Bold Sage Green Pause bars (symbolizing Pause. Think. Then Decide.) -->
+    <path
+        android:fillColor="#FF52785B"
+        android:pathData="M43,41C43,39.34 44.34,38 46,38H48C49.66,38 51,39.34 51,41V67C51,68.66 49.66,70 48,70H46C44.34,70 43,68.66 43,67V41ZM57,41C57,39.34 58.34,38 60,38H62C63.66,38 65,39.34 65,41V67C65,68.66 63.66,70 62,70H60C58.34,70 57,68.66 57,67V41Z" />
+</vector>

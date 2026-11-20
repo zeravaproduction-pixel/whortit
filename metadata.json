@@ -1,0 +1,6 @@
+{
+  "name": "WorthIt?",
+  "description": "Behavioral finance micro-app untuk berpikir jernih sebelum checkout dengan Reality Check, Impulse Filter, Cooldown Vault, dan Savings Tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
